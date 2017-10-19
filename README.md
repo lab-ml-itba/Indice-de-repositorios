@@ -16,6 +16,15 @@
 - [Least Squares](https://github.com/lab-ml-itba/Linear-Regression-Gradient-Descent/blob/master/Least%20Squares.ipynb)
 - [Gradient Descent](https://github.com/lab-ml-itba/Linear-Regression-Gradient-Descent/blob/master/Gradient%20Descent.ipynb)
 - [Regresión lineal (Videos, Datasets y Ejemplos)](https://github.com/lab-ml-itba/Linear-Regression-Gradient-Descent/blob/master/Linear%20Regression%20%26%20Gradient%20Descent.ipynb)
+- Videos recomendados. Regresión Lineal:
+[1](https://www.youtube.com/watch?v=kHwlB_j7Hkc)
+[2](https://www.youtube.com/watch?v=yuH4iRcggMw)
+[3](https://www.youtube.com/watch?v=yR2ipCoFvNo)
+[4](https://www.youtube.com/watch?v=0kns1gXLYg4)
+- Videos recomendados. Gradient Descent:
+[1](https://www.youtube.com/watch?v=F6GSRDoB-Cg)
+[2](https://www.youtube.com/watch?v=YovTqTY-PYY)
+[3](https://www.youtube.com/watch?v=GtSf2T6Co80)
 
 **Clase 4:**
 - [Regresión logística](https://github.com/lab-ml-itba/Logistic-Regression/blob/master/Regresi%C3%B3n%20Log%C3%ADstica.ipynb)
