@@ -9,6 +9,8 @@
 - [El problema de localización. Localización del robot](https://github.com/lab-ml-itba/Intro-Probabilidad)
 - [Naive bayes. Detección de SPAM](https://github.com/lab-ml-itba/Intro-Probabilidad/blob/master/Naive_Bayes.ipynb)
 - [Ejemplo Naive Bayes Gaussiano](https://github.com/lab-ml-itba/Intro-Probabilidad/blob/master/Ejemplos%20de%20Gaussian%20Naive%20Bayes.ipynb)
+- [Curso recomendado: Naive Bayes - Requiere registración Gratuita](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30076485360923)
+- [Curso recomendado: Localización - Requiere registración Gratuita](https://classroom.udacity.com/courses/cs373/lessons/48739381/concepts/487350240923)
 
 **Clase 3:**
 - [Least Squares](https://github.com/lab-ml-itba/Linear-Regression-Gradient-Descent/blob/master/Least%20Squares.ipynb)
