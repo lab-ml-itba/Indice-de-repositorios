@@ -1,6 +1,6 @@
 # Indice de repositorios (Enlaces a las notebooks)
 **Clase 1:**
-- Introdución a proyectos: https://github.com/lab-ml-itba/Intro-proyectos/blob/master/Tipos%20de%20Proyectos.ipynb
+- [Introdución a los proyectos](https://github.com/lab-ml-itba/Intro-proyectos/blob/master/Tipos%20de%20Proyectos.ipynb)
 - Entorno de trabajo: https://github.com/lab-ml-itba/entorno-de-trabajo/blob/master/Entorno%20de%20Trabajo.ipynb
 - Ejercitación básica en Python: https://github.com/lab-ml-itba/entorno-de-trabajo/blob/master/Ejercitaci%C3%B3n%20B%C3%A1sica%20en%20Python.ipynb
 
