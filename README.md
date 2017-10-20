@@ -29,6 +29,7 @@
 **Clase 4:**
 - [Regresión logística](https://github.com/lab-ml-itba/Logistic-Regression/blob/master/Regresi%C3%B3n%20Log%C3%ADstica.ipynb)
 - [Por que la sigmoidea](https://github.com/lab-ml-itba/Logistic-Regression/blob/master/logistic-regression-why-sigmoid.ipynb)
+- Videos recomendados: [1](https://www.youtube.com/watch?v=LLx4diIP83I),[2](https://www.youtube.com/watch?v=tEk6ikTKGYU),[3](https://www.youtube.com/watch?v=7F-CuXdTQ5k),[4](https://www.youtube.com/watch?v=IxotEG3yWHs),[5](https://www.youtube.com/watch?v=Y2zXH_4_aZs),[6](https://www.youtube.com/watch?v=uKtVwBX7CCs),[7](https://www.youtube.com/watch?v=07bPqvCevfc)
 
 **Clase 5:**
 - [Perceptron](https://github.com/lab-ml-itba/perceptron/blob/master/Perceptron.ipynb)
