@@ -44,7 +44,8 @@
 [Regiones no lineales 2](https://youtu.be/HWuBKCZsCo8),
 [Redes Neuronales, combinación de perceptrones](https://youtu.be/FWN3Sw5fFoM),
 [Multiples dimensiones](https://youtu.be/pg99FkXYK0M),
-[Multiclass clasification](https://youtu.be/uNTtvxwfox0)
+[Multiclass clasification](https://youtu.be/uNTtvxwfox0),
+[SoftMax](https://youtu.be/RC_A9Tu99y4)
 
 
 **Clase 6:**
@@ -55,5 +56,30 @@
 - [Regularización, Teoria](https://github.com/lab-ml-itba/Regularizacion/blob/master/0-Regularizacion-Teoria.ipynb)
 - [Regularización, Ejemplo](https://github.com/lab-ml-itba/Regularizacion/blob/master/1-Regularizacion-ejemplo.ipynb)
 - [Mini-Proyecto, Análisis de sentimiento](https://github.com/lab-ml-itba/Regularizacion/blob/master/3-IMDB-Sentiment-Analisys.ipynb)
+- Videos Recomendados:
+[Batch vs SGD](https://youtu.be/2p58rVgqsgo),
+[Mini-batch size](https://youtu.be/GrrO1NFxaW8),
+[Number of hidden units](https://youtu.be/IkGAIQH5wH8),
+[Learning rate](https://youtu.be/TwJ8aSZoh2U),
+[Learning rate 2](https://youtu.be/HLMjeDez7ps),
+[Overfitting](https://youtu.be/EeBZpb-PSac),
+[Overfitting 2](https://youtu.be/SVqEgaT1lXU),
+[Early Stopping](https://youtu.be/NnS0FJyVcDQ),
+[Regularization](https://youtu.be/aX_m9iyK3Ac),
+[Dropout](https://youtu.be/Ty6K6YiGdBs),
+[Dropout 2](https://youtu.be/6DcImJS8uV8),
+[Dropout 3](https://youtu.be/8nG8zzJMbZw),
+[Vanishing gradient](https://youtu.be/W_JJm_5syFw),
+[Other activatin functions](https://youtu.be/VzGOR5SlFSw),
+[Local minima](https://youtu.be/gF_sW_nY-xw),
+[Random restart](https://youtu.be/idyBBCzXiqg),
+[Momentum](https://youtu.be/r-rYz_PEWC8)
 
-
+**Clase 8:**
+- [Convolutional Neural Networks](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
+- Videos recomendados: 
+[Intro CNNs](https://youtu.be/HrYNL_1SV2Y),
+[Convolutional Layers 1](https://youtu.be/h5R_JvdUrUI),
+[Convolutional Layers 2](https://youtu.be/RnM1D-XI--8),
+[Pooling layers](https://youtu.be/OkkIZNs7Cyc),
+[CNNs for image classification](https://youtu.be/l9vg_1YUlzg)
