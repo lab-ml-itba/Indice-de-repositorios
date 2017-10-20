@@ -76,7 +76,7 @@
 [Momentum](https://youtu.be/r-rYz_PEWC8)
 
 **Clase 8:**
-- [Convolutional Neural Networks](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
+- [Convolutional Neural Networks, Teoria + MNIST](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
 - Videos recomendados: 
 [Intro CNNs](https://youtu.be/HrYNL_1SV2Y),
 [Convolutional Layers 1](https://youtu.be/h5R_JvdUrUI),
