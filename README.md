@@ -35,16 +35,16 @@
 - [Perceptron](https://github.com/lab-ml-itba/perceptron/blob/master/Perceptron.ipynb)
 - [Ejercitación de clasificación](https://github.com/lab-ml-itba/Ejemplos-de-Clasificacion/blob/master/Soluciones%20Ejemplos%20de%20Clasificacion.ipynb)
 - Videos recomendados:
-[clasificacion 1](https://youtu.be/Dh625piH7Z0)
-[clasificacion 2](https://youtu.be/46PywnGa_cQ)
-[separacion linea 2 dimensiones(https://youtu.be/X-uMlsBi07k)
-[separacion linea 3 dimensiones(https://youtu.be/eBHunImDmWw)
-[perceptron(https://youtu.be/SJmJ4xK9Clg)
-[regiones no lineales(https://youtu.be/B8UrWnHh1Wc)
-[regiones no lineales(https://youtu.be/HWuBKCZsCo8)
-[Redes Neuronales, combinación de perceptrones(https://youtu.be/FWN3Sw5fFoM)
-[Multiples dimensiones(https://youtu.be/pg99FkXYK0M)
-[Multiclass clasification(https://youtu.be/uNTtvxwfox0)
+[Clasificacion 1](https://youtu.be/Dh625piH7Z0),
+[Clasificacion 2](https://youtu.be/46PywnGa_cQ),
+[Separacion lineal 2 dimensiones](https://youtu.be/X-uMlsBi07k),
+[separacion lineal 3 dimensiones](https://youtu.be/eBHunImDmWw),
+[Perceptron](https://youtu.be/SJmJ4xK9Clg),
+[Regiones no lineales 1](https://youtu.be/B8UrWnHh1Wc),
+[Regiones no lineales 2](https://youtu.be/HWuBKCZsCo8),
+[Redes Neuronales, combinación de perceptrones](https://youtu.be/FWN3Sw5fFoM),
+[Multiples dimensiones](https://youtu.be/pg99FkXYK0M),
+[Multiclass clasification](https://youtu.be/uNTtvxwfox0)
 
 
 **Clase 6:**
