@@ -82,8 +82,8 @@
 [Convolutional Layers 1](https://youtu.be/h5R_JvdUrUI),
 [Convolutional Layers 2](https://youtu.be/RnM1D-XI--8),
 [Pooling layers](https://youtu.be/OkkIZNs7Cyc),
-[CNNs for image classification](https://youtu.be/l9vg_1YUlzg)
-[Image augmentation](https://youtu.be/odStujZq3GY)
-[Groundbreaking CNN arquitectures](https://youtu.be/ddrB-mhMfkY)
-[Visualizing CNNs 1](https://youtu.be/mnqS_EhEZVg)
+[CNNs for image classification](https://youtu.be/l9vg_1YUlzg),
+[Image augmentation](https://youtu.be/odStujZq3GY),
+[Groundbreaking CNN arquitectures](https://youtu.be/ddrB-mhMfkY),
+[Visualizing CNNs 1](https://youtu.be/mnqS_EhEZVg),
 [Transfer Learning](https://youtu.be/LHG5FltaR6I)
