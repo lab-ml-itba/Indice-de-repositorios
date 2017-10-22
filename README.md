@@ -76,14 +76,15 @@
 [Momentum](https://youtu.be/r-rYz_PEWC8)
 
 **Clase 8:**
-- [Convolutional Neural Networks, Teoria + MNIST](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
-- Videos recomendados: 
-[Intro CNNs](https://youtu.be/HrYNL_1SV2Y),
-[Convolutional Layers 1](https://youtu.be/h5R_JvdUrUI),
-[Convolutional Layers 2](https://youtu.be/RnM1D-XI--8),
-[Pooling layers](https://youtu.be/OkkIZNs7Cyc),
-[CNNs for image classification](https://youtu.be/l9vg_1YUlzg),
-[Image augmentation](https://youtu.be/odStujZq3GY),
-[Groundbreaking CNN arquitectures](https://youtu.be/ddrB-mhMfkY),
-[Visualizing CNNs 1](https://youtu.be/mnqS_EhEZVg),
-[Transfer Learning](https://youtu.be/LHG5FltaR6I)
+- [CNN - Teoria](https://github.com/lab-ml-itba/CNN/blob/master/1-CNN-Teoria.ipynb)
+- [CNN - MNIST](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
+Videos recomendados: 
+- [Intro CNNs](https://youtu.be/HrYNL_1SV2Y)
+- [Convolutional Layers 1](https://youtu.be/h5R_JvdUrUI)
+- [Convolutional Layers 2](https://youtu.be/RnM1D-XI--8)
+- [Pooling layers](https://youtu.be/OkkIZNs7Cyc)
+- [CNNs for image classification](https://youtu.be/l9vg_1YUlzg)
+- [Image augmentation](https://youtu.be/odStujZq3GY)
+- [Groundbreaking CNN arquitectures](https://youtu.be/ddrB-mhMfkY)
+- [Visualizing CNNs 1](https://youtu.be/mnqS_EhEZVg)
+- [Transfer Learning](https://youtu.be/LHG5FltaR6I)
