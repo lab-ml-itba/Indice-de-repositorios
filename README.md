@@ -75,10 +75,11 @@
 [Random restart](https://youtu.be/idyBBCzXiqg),
 [Momentum](https://youtu.be/r-rYz_PEWC8)
 
-**Clase 8:**
+# Clase 8:
 - [CNN - Teoria](https://github.com/lab-ml-itba/CNN/blob/master/1-CNN-Teoria.ipynb)
 - [CNN - MNIST](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
-Videos recomendados: 
+
+**Videos recomendados**: 
 - [Intro CNNs](https://youtu.be/HrYNL_1SV2Y)
 - [Convolutional Layers 1](https://youtu.be/h5R_JvdUrUI)
 - [Convolutional Layers 2](https://youtu.be/RnM1D-XI--8)
