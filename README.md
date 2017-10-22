@@ -53,29 +53,34 @@
 - [MNIST Tensorflow](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/2-Tensorflow-MNIST.ipynb)
 
 ## Clase 7:
+**Notebooks**
 - [Regularización, Teoria](https://github.com/lab-ml-itba/Regularizacion/blob/master/0-Regularizacion-Teoria.ipynb)
 - [Regularización, Ejemplo](https://github.com/lab-ml-itba/Regularizacion/blob/master/1-Regularizacion-ejemplo.ipynb)
-- [Mini-Proyecto, Análisis de sentimiento](https://github.com/lab-ml-itba/Regularizacion/blob/master/3-IMDB-Sentiment-Analisys.ipynb)
-- Videos Recomendados:
-[Batch vs SGD](https://youtu.be/2p58rVgqsgo),
-[Mini-batch size](https://youtu.be/GrrO1NFxaW8),
-[Number of hidden units](https://youtu.be/IkGAIQH5wH8),
-[Learning rate](https://youtu.be/TwJ8aSZoh2U),
-[Learning rate 2](https://youtu.be/HLMjeDez7ps),
-[Overfitting](https://youtu.be/EeBZpb-PSac),
-[Overfitting 2](https://youtu.be/SVqEgaT1lXU),
-[Early Stopping](https://youtu.be/NnS0FJyVcDQ),
-[Regularization](https://youtu.be/aX_m9iyK3Ac),
-[Dropout](https://youtu.be/Ty6K6YiGdBs),
-[Dropout 2](https://youtu.be/6DcImJS8uV8),
-[Dropout 3](https://youtu.be/8nG8zzJMbZw),
-[Vanishing gradient](https://youtu.be/W_JJm_5syFw),
-[Other activatin functions](https://youtu.be/VzGOR5SlFSw),
-[Local minima](https://youtu.be/gF_sW_nY-xw),
-[Random restart](https://youtu.be/idyBBCzXiqg),
-[Momentum](https://youtu.be/r-rYz_PEWC8)
+
+**Mini-Proyecto**
+[Mini-Proyecto, Análisis de sentimiento](https://github.com/lab-ml-itba/Regularizacion/blob/master/3-IMDB-Sentiment-Analisys.ipynb)
+
+**Videos Recomendados**:
+- [Batch vs SGD](https://youtu.be/2p58rVgqsgo)
+- [Mini-batch size](https://youtu.be/GrrO1NFxaW8)
+- [Number of hidden units](https://youtu.be/IkGAIQH5wH8)
+- [Learning rate](https://youtu.be/TwJ8aSZoh2U)
+- [Learning rate 2](https://youtu.be/HLMjeDez7ps)
+- [Overfitting](https://youtu.be/EeBZpb-PSac)
+- [Overfitting 2](https://youtu.be/SVqEgaT1lXU)
+- [Early Stopping](https://youtu.be/NnS0FJyVcDQ)
+- [Regularization](https://youtu.be/aX_m9iyK3Ac)
+- [Dropout](https://youtu.be/Ty6K6YiGdBs)
+- [Dropout 2](https://youtu.be/6DcImJS8uV8)
+- [Dropout 3](https://youtu.be/8nG8zzJMbZw)
+- [Vanishing gradient](https://youtu.be/W_JJm_5syFw)
+- [Other activatin functions](https://youtu.be/VzGOR5SlFSw)
+- [Local minima](https://youtu.be/gF_sW_nY-xw)
+- [Random restart](https://youtu.be/idyBBCzXiqg)
+- [Momentum](https://youtu.be/r-rYz_PEWC8)
 
 ## Clase 8:
+**Notebooks**
 - [CNN - Teoria](https://github.com/lab-ml-itba/CNN/blob/master/1-CNN-Teoria.ipynb)
 - [CNN - MNIST](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
 
