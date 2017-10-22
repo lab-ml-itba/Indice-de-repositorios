@@ -75,7 +75,7 @@
 [Random restart](https://youtu.be/idyBBCzXiqg),
 [Momentum](https://youtu.be/r-rYz_PEWC8)
 
-# Clase 8:
+## Clase 8:
 - [CNN - Teoria](https://github.com/lab-ml-itba/CNN/blob/master/1-CNN-Teoria.ipynb)
 - [CNN - MNIST](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
 
