@@ -3,6 +3,7 @@
 **Notebooks:**
 - [Introdución a los proyectos](https://github.com/lab-ml-itba/Intro-proyectos/blob/master/Tipos%20de%20Proyectos.ipynb)
 - [El entorno de trabajo](https://github.com/lab-ml-itba/entorno-de-trabajo/blob/master/Entorno%20de%20Trabajo.ipynb)
+
 **Ejercitación:**
 - [Ejercitación básica en Python](https://github.com/lab-ml-itba/entorno-de-trabajo/blob/master/Ejercitaci%C3%B3n%20B%C3%A1sica%20en%20Python.ipynb)
 
@@ -11,6 +12,7 @@
 - [El problema de localización. Localización del robot](https://github.com/lab-ml-itba/Intro-Probabilidad)
 - [Naive bayes. Detección de SPAM](https://github.com/lab-ml-itba/Intro-Probabilidad/blob/master/Naive_Bayes.ipynb)
 - [Ejemplo Naive Bayes Gaussiano](https://github.com/lab-ml-itba/Intro-Probabilidad/blob/master/Ejemplos%20de%20Gaussian%20Naive%20Bayes.ipynb)
+
 **Cursos recomendados:**
 - [Naive Bayes - Requiere registración Gratuita](https://classroom.udacity.com/courses/ud120/lessons/2254358555/concepts/30076485360923)
 - [Localización - Requiere registración Gratuita](https://classroom.udacity.com/courses/cs373/lessons/48739381/concepts/487350240923)
@@ -20,6 +22,7 @@
 - [Least Squares](https://github.com/lab-ml-itba/Linear-Regression-Gradient-Descent/blob/master/Least%20Squares.ipynb)
 - [Gradient Descent](https://github.com/lab-ml-itba/Linear-Regression-Gradient-Descent/blob/master/Gradient%20Descent.ipynb)
 - [Regresión lineal (Videos, Datasets y Ejemplos)](https://github.com/lab-ml-itba/Linear-Regression-Gradient-Descent/blob/master/Linear%20Regression%20%26%20Gradient%20Descent.ipynb)
+
 **Videos recomendados:**
 - Regresión Lineal:
 [1](https://www.youtube.com/watch?v=kHwlB_j7Hkc)
@@ -35,6 +38,7 @@
 **Notebooks:**
 - [Regresión logística](https://github.com/lab-ml-itba/Logistic-Regression/blob/master/Regresi%C3%B3n%20Log%C3%ADstica.ipynb)
 - [Por que la sigmoidea](https://github.com/lab-ml-itba/Logistic-Regression/blob/master/logistic-regression-why-sigmoid.ipynb)
+
 **Videos recomendados:** 
 - [1](https://www.youtube.com/watch?v=LLx4diIP83I),[2](https://www.youtube.com/watch?v=tEk6ikTKGYU),[3](https://www.youtube.com/watch?v=7F-CuXdTQ5k),[4](https://www.youtube.com/watch?v=IxotEG3yWHs),[5](https://www.youtube.com/watch?v=Y2zXH_4_aZs),[6](https://www.youtube.com/watch?v=uKtVwBX7CCs),[7](https://www.youtube.com/watch?v=07bPqvCevfc)
 
@@ -42,6 +46,7 @@
 **Notebooks:**
 - [Perceptron](https://github.com/lab-ml-itba/perceptron/blob/master/Perceptron.ipynb)
 - [Ejercitación de clasificación](https://github.com/lab-ml-itba/Ejemplos-de-Clasificacion/blob/master/Soluciones%20Ejemplos%20de%20Clasificacion.ipynb)
+
 **Videos recomendados:**
 - [Clasificacion 1](https://youtu.be/Dh625piH7Z0)
 - [Clasificacion 2](https://youtu.be/46PywnGa_cQ)
