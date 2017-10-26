@@ -93,10 +93,17 @@
 - [Random restart](https://youtu.be/idyBBCzXiqg)
 - [Momentum](https://youtu.be/r-rYz_PEWC8)
 
-## Clase 8:
+## Clase 8 (CNN - Convolutional Neural Networks):
 **Notebooks:**
-- [CNN - Teoria](https://github.com/lab-ml-itba/CNN/blob/master/1-CNN-Teoria.ipynb)
-- [CNN - MNIST](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
+- [Teoria](https://github.com/lab-ml-itba/CNN/blob/master/1-CNN-Teoria.ipynb)
+- [MNIST](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
+- [CIFAR-10](https://github.com/lab-ml-itba/CNN/blob/master/2-CNN-CIFAR-10.ipynb)
+- [CIFAR-10-augmentation](https://github.com/lab-ml-itba/CNN/blob/master/3-CNN-CIFAR-10-augmentation.ipynb)
+- [Arquitecturas](https://github.com/lab-ml-itba/CNN/blob/master/4-CNN-Arquitecturas.ipynb)
+- [Transfer Learning.ipynb](https://github.com/lab-ml-itba/CNN/blob/master/5-Transfer%20Learning.ipynb)
+- [Dogs vs Cats](https://github.com/lab-ml-itba/CNN/blob/master/6-Dogs%20vs%20Cats.ipynb)
+- [CNN-Visualization](https://github.com/lab-ml-itba/CNN/blob/master/7-Image-Visualization.ipynb)
+- [Image Segmentation](https://github.com/lab-ml-itba/CNN/blob/master/8-Image%20Segmentation.ipynb)
 
 **Videos recomendados:** 
 - [Intro CNNs](https://youtu.be/HrYNL_1SV2Y)
