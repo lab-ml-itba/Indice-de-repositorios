@@ -108,3 +108,6 @@
 - [Groundbreaking CNN arquitectures](https://youtu.be/ddrB-mhMfkY)
 - [Visualizing CNNs 1](https://youtu.be/mnqS_EhEZVg)
 - [Transfer Learning](https://youtu.be/LHG5FltaR6I)
+
+**Datasets:**
+- [Dogs vs Cats](https://github.com/lab-ml-itba/Datasets/blob/master/dogs_vs_cats.zip?raw=true)
