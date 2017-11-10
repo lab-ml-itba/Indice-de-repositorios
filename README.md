@@ -138,3 +138,6 @@
 - [Windowing](https://youtu.be/UfOUisfQPZc)
 - [RNN and LSTM](https://youtu.be/70MgF-IwAr8)
 - [LSTM](https://youtu.be/gjb68a4XsqE)
+
+**Repositorio con helpers**
+https://github.com/lab-ml-itba/mllab-tools
