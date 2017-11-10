@@ -116,5 +116,25 @@
 - [Visualizing CNNs 1](https://youtu.be/mnqS_EhEZVg)
 - [Transfer Learning](https://youtu.be/LHG5FltaR6I)
 
-**Datasets:**
-- [Dogs vs Cats](https://github.com/lab-ml-itba/Datasets/blob/master/dogs_vs_cats.zip?raw=true)
+## Clase 9 (RBM - Hopfield):
+**Notebooks:**
+- [Repositorio](https://github.com/lab-ml-itba/Hopfield-y-RBM)
+
+**Videos recomendados:** 
+- RBM: [1](https://drive.google.com/file/d/1wX7u3KPL9xg9MgbwgtFHh4AGz6d8KpPt/view?usp=sharing), [2](https://drive.google.com/file/d/19dN_EMYlnbrhPf_EsNLeuQo6weUYsJJV/view?usp=sharing), [3](https://drive.google.com/file/d/1KsyxCFzutQNS_TMlPiMqZb1T8l5bbSW0/view?usp=sharing), [4](https://drive.google.com/file/d/18Bj2yNWpButNyoqFWJfoq7zz2q94gxpI/view?usp=sharing)
+- Hopfield: [1](https://www.youtube.com/watch?v=iQu1ZgmapJQ),[2](https://www.youtube.com/watch?v=3WgIxMFyfdI),[3](https://www.youtube.com/watch?v=7p_aYVFx-qo),[4](https://www.youtube.com/watch?v=a1WrRXiEFY0)
+
+## Clase 10 (RNN - Recurrent Neural Networks):
+**Notebooks:**
+- [Intro a RNNs](https://github.com/lab-ml-itba/RNN/blob/master/RNN_intro.ipynb)
+- [Toy Example: HELLO](https://github.com/lab-ml-itba/RNN/blob/master/Toy_example.ipynb)
+- [Bodas de Sangre: Entrenamiento](https://github.com/lab-ml-itba/RNN/blob/master/federico-garcia-lorca/obras-de-teatro.ipynb)
+- [Bodas de Sangre: Resultados](https://github.com/lab-ml-itba/RNN/blob/master/federico-garcia-lorca/obras-de-teatro-results.ipynb)
+
+**Videos recomendados:** 
+- [Pelicula RNN](https://www.youtube.com/watch?v=LY7x2Ihqjmc)
+- [Intro a RNN](https://youtu.be/vPhD02WxMk8)
+- [Vanilla vs CNN and RNN](https://youtu.be/oAt0eYD5_Tc)
+- [Windowing](https://youtu.be/UfOUisfQPZc)
+- [RNN and LSTM](https://youtu.be/70MgF-IwAr8)
+- [LSTM](https://youtu.be/gjb68a4XsqE)
