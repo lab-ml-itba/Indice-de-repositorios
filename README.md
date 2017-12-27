@@ -156,15 +156,14 @@ Agregar material
 Agregar links y videos
 
 ## Clase 14 (Word Embeddings, NLP)
-**Repositiorio**
-https://github.com/lab-ml-itba/NLP
+[**Repositiorio**](https://github.com/lab-ml-itba/NLP)
 
 **Videos recomendados:** 
-[Word Embeddings](https://youtu.be/4mM_S9L2_JQ)
-[Word2Vect](https://youtu.be/7jjappzGRe0)
-[Glove](https://youtu.be/KK3PMIiIn8o)
-[Embeddings in deep learning](https://youtu.be/gj8u1KG0H2w)
-[T-SNE](https://youtu.be/xxcK8oZ6_WE)
+- [Word Embeddings](https://youtu.be/4mM_S9L2_JQ)
+- [Word2Vect](https://youtu.be/7jjappzGRe0)
+- [Glove](https://youtu.be/KK3PMIiIn8o)
+- [Embeddings in deep learning](https://youtu.be/gj8u1KG0H2w)
+- [T-SNE](https://youtu.be/xxcK8oZ6_WE)
 
 ## Clase 15 (Sistemas de recomendación)
 **Notebooks**
@@ -175,5 +174,4 @@ https://github.com/lab-ml-itba/NLP
 **Videos recomendados:** 
 - [Lista Curso Andrew NG](https://www.youtube.com/watch?v=saXRzxgFN0o&list=PL_npY1DYXHPT-3dorG7Em6d18P4JRFDvH)
 
-**Repositorio con helpers**
-https://github.com/lab-ml-itba/mllab-tools
+[**Repositorio con helpers**](https://github.com/lab-ml-itba/mllab-tools)
