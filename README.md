@@ -174,4 +174,6 @@ Agregar links y videos
 **Videos recomendados:** 
 - [Lista Curso Andrew NG](https://www.youtube.com/watch?v=saXRzxgFN0o&list=PL_npY1DYXHPT-3dorG7Em6d18P4JRFDvH)
 
+## Clase 16 (Presentación de proyectos finales)
+
 ## [Repositorio con helpers](https://github.com/lab-ml-itba/mllab-tools)
