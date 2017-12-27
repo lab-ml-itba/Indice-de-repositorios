@@ -139,5 +139,41 @@
 - [RNN and LSTM](https://youtu.be/70MgF-IwAr8)
 - [LSTM](https://youtu.be/gjb68a4XsqE)
 
+## Clase 11 (HMM)
+Agregar material
+
+## Clase 12 (Seq2Seq)
+**Notebooks:**
+[Seq2Seq](https://github.com/lab-ml-itba/RNN/blob/master/5_Seq2Seq.ipynb)
+
+**Videos recomendados:** 
+- [Intro](https://youtu.be/HPOzAlXhuxQ)
+- [Aplicaciones](https://youtu.be/tDJBDwriJYQ)
+- [Arquitectura 1](https://youtu.be/dkHdEAJnV_w)
+- [Arquitectura 2](https://youtu.be/rdAo4MqLbEk)
+
+## Clase 13 (PCA - SOM - Continuación HMM):
+Agregar links y videos
+
+## Clase 14 (Word Embeddings, NLP)
+**Repositiorio**
+https://github.com/lab-ml-itba/NLP
+
+**Videos recomendados:** 
+[Word Embeddings](https://youtu.be/4mM_S9L2_JQ)
+[Word2Vect](https://youtu.be/7jjappzGRe0)
+[Glove](https://youtu.be/KK3PMIiIn8o)
+[Embeddings in deep learning](https://youtu.be/gj8u1KG0H2w)
+[T-SNE](https://youtu.be/xxcK8oZ6_WE)
+
+## Clase 15 (Sistemas de recomendación)
+**Notebooks**
+- [Intro](https://github.com/lab-ml-itba/Sistemas_Recomendacion/blob/master/1_Intro_Recommender_Systems.ipynb)
+- [MovieLens testing](https://github.com/lab-ml-itba/Sistemas_Recomendacion/blob/master/2_MovieLens%20Testing.ipynb)
+- RBM (Agregar Link)
+
+**Videos recomendados:** 
+- [Lista Curso Andrew NG](https://www.youtube.com/watch?v=saXRzxgFN0o&list=PL_npY1DYXHPT-3dorG7Em6d18P4JRFDvH)
+
 **Repositorio con helpers**
 https://github.com/lab-ml-itba/mllab-tools
