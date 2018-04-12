@@ -93,7 +93,9 @@
 - [Random restart](https://youtu.be/idyBBCzXiqg)
 - [Momentum](https://youtu.be/r-rYz_PEWC8)
 
-## Clase 8 (CNN - Convolutional Neural Networks):
+## Clase 8: PCA - MFCC - FFT - Wavelets 
+
+## Clase 9 (CNN - Convolutional Neural Networks):
 **Notebooks:**
 - [Teoria](https://github.com/lab-ml-itba/CNN/blob/master/1-CNN-Teoria.ipynb)
 - [MNIST](https://github.com/lab-ml-itba/MNIST-MLP-CNN/blob/master/3-MNIST-CNN.ipynb)
@@ -116,15 +118,10 @@
 - [Visualizing CNNs 1](https://youtu.be/mnqS_EhEZVg)
 - [Transfer Learning](https://youtu.be/LHG5FltaR6I)
 
-## Clase 9 (RBM - Hopfield):
-**Notebooks:**
-- [Repositorio](https://github.com/lab-ml-itba/Hopfield-y-RBM)
+## Clase 10 (HMM - Expectation Maximization)
+Agregar material
 
-**Videos recomendados:** 
-- RBM: [1](https://drive.google.com/file/d/1wX7u3KPL9xg9MgbwgtFHh4AGz6d8KpPt/view?usp=sharing), [2](https://drive.google.com/file/d/19dN_EMYlnbrhPf_EsNLeuQo6weUYsJJV/view?usp=sharing), [3](https://drive.google.com/file/d/1KsyxCFzutQNS_TMlPiMqZb1T8l5bbSW0/view?usp=sharing), [4](https://drive.google.com/file/d/18Bj2yNWpButNyoqFWJfoq7zz2q94gxpI/view?usp=sharing)
-- Hopfield: [1](https://www.youtube.com/watch?v=iQu1ZgmapJQ),[2](https://www.youtube.com/watch?v=3WgIxMFyfdI),[3](https://www.youtube.com/watch?v=7p_aYVFx-qo),[4](https://www.youtube.com/watch?v=a1WrRXiEFY0)
-
-## Clase 10 (RNN - Recurrent Neural Networks):
+## Clase 11 (RNN - Recurrent Neural Networks):
 **Notebooks:**
 - [Intro a RNNs](https://github.com/lab-ml-itba/RNN/blob/master/RNN_intro.ipynb)
 - [Toy Example: HELLO](https://github.com/lab-ml-itba/RNN/blob/master/Toy_example.ipynb)
@@ -139,9 +136,6 @@
 - [RNN and LSTM](https://youtu.be/70MgF-IwAr8)
 - [LSTM](https://youtu.be/gjb68a4XsqE)
 
-## Clase 11 (HMM)
-Agregar material
-
 ## Clase 12 (Seq2Seq)
 **Notebooks:**
 [Seq2Seq](https://github.com/lab-ml-itba/RNN/blob/master/5_Seq2Seq.ipynb)
@@ -152,8 +146,7 @@ Agregar material
 - [Arquitectura 1](https://youtu.be/dkHdEAJnV_w)
 - [Arquitectura 2](https://youtu.be/rdAo4MqLbEk)
 
-## Clase 13 (PCA - SOM - Continuación HMM):
-Agregar links y videos
+## Clase 13: K-means, SOM, Oja's, TSNE
 
 ## Clase 14 (Word Embeddings, NLP)
 [**Repositiorio**](https://github.com/lab-ml-itba/NLP)
@@ -174,6 +167,15 @@ Agregar links y videos
 **Videos recomendados:** 
 - [Lista Curso Andrew NG](https://www.youtube.com/watch?v=saXRzxgFN0o&list=PL_npY1DYXHPT-3dorG7Em6d18P4JRFDvH)
 
-## Clase 16 (Presentación de proyectos finales)
+
+## Clase 16 (RBM - Hopfield - DBN):
+**Notebooks:**
+- [Repositorio](https://github.com/lab-ml-itba/Hopfield-y-RBM)
+
+**Videos recomendados:** 
+- RBM: [1](https://drive.google.com/file/d/1wX7u3KPL9xg9MgbwgtFHh4AGz6d8KpPt/view?usp=sharing), [2](https://drive.google.com/file/d/19dN_EMYlnbrhPf_EsNLeuQo6weUYsJJV/view?usp=sharing), [3](https://drive.google.com/file/d/1KsyxCFzutQNS_TMlPiMqZb1T8l5bbSW0/view?usp=sharing), [4](https://drive.google.com/file/d/18Bj2yNWpButNyoqFWJfoq7zz2q94gxpI/view?usp=sharing)
+- Hopfield: [1](https://www.youtube.com/watch?v=iQu1ZgmapJQ),[2](https://www.youtube.com/watch?v=3WgIxMFyfdI),[3](https://www.youtube.com/watch?v=7p_aYVFx-qo),[4](https://www.youtube.com/watch?v=a1WrRXiEFY0)
+
+## Clase 17 (Presentación de proyectos finales)
 
 ## [Repositorio con helpers](https://github.com/lab-ml-itba/mllab-tools)
